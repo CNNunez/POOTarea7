@@ -16,7 +16,7 @@ public class Ventana extends JFrame implements ActionListener{
     boolean press_2 = false;
 
     public Ventana(){
-        super("Restaurant Window"); // para ponerle titulo
+        super("Window"); // para ponerle titulo
         // Detalles de ventana
         int width = 300;
         int height = 190;
